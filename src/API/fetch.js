@@ -1,6 +1,7 @@
 import axios from "axios";
 
-const url = "https://json-server-achintya.herokuapp.com/";
+// const url = "https://json-server-achintya.herokuapp.com/";
+const url = "https://json-server-vercel-weld-theta.vercel.app/";
 
 export const fetchRestaurantsByCity = async (city) => {
 
